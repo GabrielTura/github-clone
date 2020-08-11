@@ -29,8 +29,8 @@ export default createGlobalStyle`
         --logo: #fff;
         --header: #24292e;
         --username: #666;
-        --search: rgba(255; 255; 255; 0.13);
-        --search-placeholder: hsla(0;0%;100%;.75);
+        --search: #404449;
+        --search-placeholder: #404449;
         --icon: #6a737d;
         --link: #0366d6;
         --border: #e1e4e8;
